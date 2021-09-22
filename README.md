@@ -82,7 +82,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Shelley Capito | R | WV | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/487f490c-9e41-4fbe-9644-97ee4d23f7a8/) |
 | Salud Carbajal | D | CA | House | ? | ? |
 | Benjamin Cardin | D | MD | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/b5cc6c13-c3e1-42fa-8922-a76e541f6443/) |
-| Jerry Carl | R | AL | House | ? | ? |
+| Jerry Carl | R | AL | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10042177.pdf) |
 | Thomas Carper | D | DE | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/78019695-788e-4b10-8612-73022fb76e51/) |
 | André Carson | D | IN | House | ? | ? |
 | Earl Carter | R | GA | House | ? | ? |
@@ -354,7 +354,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Mariannette Miller-Meeks | R | IA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043392.pdf) |
 | John Moolenaar | R | MI | House | ? | ? |
 | Alexander Mooney | R | WV | House | ? | ? |
-| Barry Moore | R | AL | House | ? | ? |
+| Barry Moore | R | AL | House | YES | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10040681.pdf) | $1001 - $15K of crypto currency owned |
 | Blake Moore | R | UT | House | ? | ? |
 | Gwen Moore | D | WI | House | ? | ? |
 | Jerry Moran | R | KS | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/6cc69cc0-afd4-4328-9b15-cd1ad66cede5/) |
@@ -456,7 +456,7 @@ NOTE: If you open a link to a Senator's disclosure, you need to paste the URL in
 | Robert Scott | D | VA | House | ? | ? |
 | Tim Scott | R | SC | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/383d5d69-3b2a-49ba-a57d-eba2e97726b3/) |
 | Pete Sessions | R | TX | House | ? | ? |
-| Terri Sewell | D | AL | House | ? | ? |
+| Terri Sewell | D | AL | House | NO | [2020] (https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/10043271.pdf) |
 | Jeanne Shaheen | D | NH | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/84ba6931-cc90-4227-b33c-96fa00a503a3/) |
 | Richard Shelby | R | AL | Senate | NO | [2020](https://efdsearch.senate.gov/search/view/annual/f77128bc-11ad-424d-99d0-03edc3704901/) |
 | Brad Sherman | D | CA | House | NO | [2020](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2020/8218239.pdf) |
